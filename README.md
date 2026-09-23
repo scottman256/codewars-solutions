@@ -1,1 +1,1 @@
-"# codewars-solutions" 
+# codewars-solutions
